@@ -1,6 +1,6 @@
 # Underpass
 
-Vertx based project, collects public vpns.
+Vertx based project, public vpn API.
 
 ## Technology
 
